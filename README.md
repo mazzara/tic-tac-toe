@@ -51,7 +51,7 @@ You need a C++ compiler to build and run the game. This can be installed on vari
 3. .gitignore: Specifies which files and directories Git should ignore.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
